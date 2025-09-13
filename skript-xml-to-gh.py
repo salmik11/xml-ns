@@ -33,8 +33,9 @@ for item in root.findall("SHOPITEM"):
     new_root.append(new_item)
 
 # cesta k výstupu (uloží se do repa)
-output_file = "clean_products.xml"
+output_file = "gpcz_ntb.xml"
 tree = ET.ElementTree(new_root)
 tree.write(output_file, encoding="utf-8", xml_declaration=True)
 
 print(f"Hotovo! Vyčištěný feed uložen do: {output_file}")
+
