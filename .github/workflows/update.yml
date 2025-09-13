@@ -3,7 +3,10 @@ name: Update XML feed
 on:
   schedule:
     - cron: "0 * * * *"   # spustí se každou hodinu
-  workflow_dispatch:       # možnost spustit ručně z GitHub UI
+  workflow_dispatch:       # možnost spustit ručně
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -22,7 +25,7 @@ jobs:
         run: pip install requests
 
       - name: Run script
-        run: python skript-xml-to-gh.py
+        run: python skript.py
 
       - name: Commit changes
         run: |
