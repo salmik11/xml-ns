@@ -2,18 +2,18 @@ name: Update XML feed
 
 on:
   schedule:
-    - cron: "0 * * * *"   # spustí se každou hodinu
+    - cron: "0 * * * *"   # každou hodinu
   workflow_dispatch:       # možnost spustit ručně
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  update-xml:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Set up Python
@@ -24,13 +24,13 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run script
-        run: python skript-xml-to-gh.py
+      - name: Run XML script
+        run: python ./skript-xml-to-gh.py
 
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git add gpcz_ntb.xml
-          git commit -m "Update XML feed" || echo "No changes to commit"
+          git commit -m "Automatická aktualizace feedu" || echo "No changes to commit"
           git push
