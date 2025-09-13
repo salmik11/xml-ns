@@ -1,41 +1,50 @@
 import requests
 import xml.etree.ElementTree as ET
-import os
+import time
 
-# URL feedu
+# --- Konfigurace ---
 url = "https://www.goldpc.cz/export/productsComplete.xml?patternId=-5&partnerId=3&hash=b6980705f27e462dc4b2da6beeb8f8b5b7746b5d927f5eaf5692ddc19d8cf3d0&exactCode=10749&stockState=1&defaultCategoryId=792"
+output_file = "gpcz_ntb.xml"
 
-# stáhnout feed
-print("Stahuji feed...")
-response = requests.get(url)
-response.encoding = "utf-8"
-
-if response.status_code != 200:
-    raise Exception("Nepodařilo se stáhnout XML feed")
-
-root = ET.fromstring(response.text)
-
-# vytvořit nový XML root
-new_root = ET.Element("SHOP")
-
-# seznam povolených tagů
-allowed_tags = {
-    "NAME", "SHORT_DESCRIPTION", "DESCRIPTION", "MANUFACTURER", "WARRANTY",
-    "CATEGORIES", "IMAGES", "INFORMATION_PARAMETERS", "SURCHARGE_PARAMETERS",
-    "CODE", "PRICE_VAT", "PURCHASE_PRICE", "STOCK"
+headers = {
+    "User-Agent": "Mozilla/5.0 (compatible; GitHub Actions)"
 }
 
-for item in root.findall("SHOPITEM"):
-    new_item = ET.Element("SHOPITEM")
-    for child in item:
-        if child.tag in allowed_tags:
-            new_item.append(child)
-    new_root.append(new_item)
+# --- Stáhnout feed s retry ---
+for attempt in range(3):
+    try:
+        print("Stahuji feed...")
+        response = requests.get(url, headers=headers, timeout=30)
+        response.raise_for_status()
+        xml_content = response.content
+        print("Hotovo!")
+        break
+    except Exception as e:
+        print(f"Attempt {attempt+1} selhal: {e}")
+        time.sleep(5)
+else:
+    raise Exception("Nepodařilo se stáhnout XML feed po 3 pokusech.")
 
-# cesta k výstupu (uloží se do repa)
-output_file = "gpcz_ntb.xml"
-tree = ET.ElementTree(new_root)
+# --- Parsování XML ---
+tree = ET.ElementTree(ET.fromstring(xml_content))
+root = tree.getroot()
+
+# --- Funkce pro vyčištění jednoho SHOPITEM ---
+def clean_shopitem(item):
+    keep_tags = [
+        "NAME", "SHORT_DESCRIPTION", "DESCRIPTION", "MANUFACTURER", "WARRANTY",
+        "CATEGORIES", "IMAGES", "INFORMATION_PARAMETERS", "SURCHARGE_PARAMETERS",
+        "CODE", "PRICE_VAT", "PURCHASE_PRICE", "STOCK"
+    ]
+    for child in list(item):
+        if child.tag not in keep_tags:
+            item.remove(child)
+    return item
+
+# --- Zpracování všech SHOPITEM ---
+for shopitem in root.findall("SHOPITEM"):
+    clean_shopitem(shopitem)
+
+# --- Uložení vyčištěného feedu ---
 tree.write(output_file, encoding="utf-8", xml_declaration=True)
-
-print(f"Hotovo! Vyčištěný feed uložen do: {output_file}")
-
+print(f"Vyčištěný feed uložen do: {output_file}")
