@@ -51,21 +51,22 @@ def clean_shopitem(item):
 
 import xml.etree.ElementTree as ET
 
-# ... tvůj kód pro zpracování produktů ...
+# projdeme všechny SHOPITEM elementy
+for item in root.findall("SHOPITEM"):
+    # přečteme původní ceny
+    price_vat = float(item.find("PRICE_VAT").text)
+    price_purchase_elem = item.find("PURCHASE_PRICE")
+    price_purchase = float(price_purchase_elem.text) if price_purchase_elem is not None else 0
 
-for product in products:
-    item = ET.SubElement(root, "SHOPITEM")
-
-    # PRICE_VAT – ponecháme
-    price_vat = float(product["PRICE_VAT"])
-    ET.SubElement(item, "PRICE_VAT").text = str(round(price_vat))
-
-    # Výpočet nové ceny B2B
-    price_purchase = float(product["PRICE_PURCHASE"])
+    # vytvoříme PRICE_VAT_B2B
     price_vat_b2b = ((price_vat + price_vat + price_purchase) / 3) * 1.01
-    ET.SubElement(item, "PRICE_VAT_B2B").text = str(round(price_vat_b2b))
+    b2b_elem = ET.Element("PRICE_VAT_B2B")
+    b2b_elem.text = str(round(price_vat_b2b))
+    item.append(b2b_elem)
 
-    # ⚠️ PRICE_PURCHASE už do XML nepřidáváme
+    # odstraníme PRICE_PURCHASE z XML
+    if price_purchase_elem is not None:
+        item.remove(price_purchase_elem)
 
 # --- Zpracování všech SHOPITEM ---
 for shopitem in root.findall("SHOPITEM"):
@@ -74,5 +75,6 @@ for shopitem in root.findall("SHOPITEM"):
 # --- Uložení vyčištěného feedu ---
 tree.write(output_file, encoding="utf-8", xml_declaration=True)
 print(f"Vyčištěný feed uložen do: {output_file}")
+
 
 
