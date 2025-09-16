@@ -7,12 +7,9 @@
 <PRICE_VAT>10490</PRICE_VAT>
             
     
-<STOCK>
+<PRICE_VAT_B2B>9263</PRICE_VAT_B2B><STOCK>
                         <AMOUNT>4</AMOUNT>
-                            <LOCATION />
-                            <MINIMAL_AMOUNT />
-    <MAXIMAL_AMOUNT />
-</STOCK>
+                            </STOCK>
 
 
 
