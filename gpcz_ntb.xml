@@ -16,7 +16,7 @@
 
 
     
-    <PRICE_VAT_B2B>8697</PRICE_VAT_B2B></SHOPITEM>
+    </SHOPITEM>
 
 
 <SHOPITEM id="22177"><NAME>HP EliteBook 660 G11</NAME><SHORT_DESCRIPTION>&lt;p&gt;&lt;strong&gt;Intel Ultra 125U&lt;/strong&gt; (až 4,30 GHz), &lt;strong&gt;16GB &lt;/strong&gt;DDR5 RAM, &lt;strong&gt;512GB SSD NVMe, &lt;/strong&gt;16" &lt;strong&gt;FullHD+ IPS 1920x1200&lt;/strong&gt;, Intel Graphics, WiFi, webkamera, &lt;strong&gt;podsvícená klávesnice,&lt;/strong&gt; Windows 11 Pro</SHORT_DESCRIPTION><DESCRIPTION>&lt;p&gt;&lt;a href="https://www.goldpc.cz/stav-produktu/"&gt;&lt;img src='https://cdn.myshoptet.com/usr/www.goldpc.cz/user/documents/upload/stavyproduktu_goldpc-01.png' alt="stavyproduktu_goldpc-01" /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -42,7 +42,7 @@
 
 
     
-    <PRICE_VAT_B2B>18624</PRICE_VAT_B2B></SHOPITEM>
+    </SHOPITEM>
 
 
 <SHOPITEM id="21172"><NAME>Lenovo V15-IIL</NAME><SHORT_DESCRIPTION>&lt;p&gt;&lt;strong&gt;Intel Core i5-1035G1&lt;/strong&gt; (až 3,60 GHz), &lt;strong&gt;12GB &lt;/strong&gt;&lt;strong&gt;DDR4&lt;/strong&gt; RAM, &lt;strong&gt;256GB SSD NVMe, &lt;/strong&gt;15.6" HD 1366x768, Intel HD Graphics, WiFi, webkamera, Windows 11 Home&lt;/p&gt;</SHORT_DESCRIPTION><DESCRIPTION>&lt;p&gt;&lt;a href="https://www.goldpc.cz/stav-produktu/"&gt;&lt;img src="https://cdn.myshoptet.com/usr/www.goldpc.cz/user/documents/upload/aaa-stav-A.png" alt="Stav_A" /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -64,6 +64,6 @@
 
 
     
-    <PRICE_VAT_B2B>7301</PRICE_VAT_B2B></SHOPITEM>
+    </SHOPITEM>
 
 </SHOP>
