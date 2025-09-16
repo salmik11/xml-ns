@@ -39,6 +39,14 @@ def clean_shopitem(item):
     for child in list(item):
         if child.tag not in keep_tags:
             item.remove(child)
+
+    # --- Úprava CATEGORIES: odstranit všechny <CATEGORY>, ponechat jen <DEFAULT_CATEGORY> ---
+    categories = item.find("CATEGORIES")
+    if categories is not None:
+        for cat in list(categories):
+            if cat.tag != "DEFAULT_CATEGORY":
+                categories.remove(cat)
+    
     return item
 
 # --- Zpracování všech SHOPITEM ---
@@ -48,3 +56,4 @@ for shopitem in root.findall("SHOPITEM"):
 # --- Uložení vyčištěného feedu ---
 tree.write(output_file, encoding="utf-8", xml_declaration=True)
 print(f"Vyčištěný feed uložen do: {output_file}")
+
