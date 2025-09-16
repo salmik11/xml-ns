@@ -34,7 +34,7 @@ def clean_shopitem(item):
     keep_tags = [
         "NAME", "SHORT_DESCRIPTION", "DESCRIPTION", "MANUFACTURER", "WARRANTY",
         "CATEGORIES", "IMAGES", "INFORMATION_PARAMETERS", "SURCHARGE_PARAMETERS",
-        "CODE", "PRICE_VAT", "PURCHASE_PRICE", "STOCK"
+        "CODE", "PRICE_VAT", "STOCK", "PRICE_VAT_B2B"
     ]
     for child in list(item):
         if child.tag not in keep_tags:
@@ -46,6 +46,13 @@ def clean_shopitem(item):
         for cat in list(categories):
             if cat.tag != "DEFAULT_CATEGORY":
                 categories.remove(cat)
+
+    # --- Odstranit konkrétně INCLUDING_VAT a REQUIRED_VALUE ---
+    for elem in item.iter():
+        for unwanted_tag in ["INCLUDING_VAT", "REQUIRED_VALUE"]:
+            for child in list(elem):
+                if child.tag == unwanted_tag:
+                    elem.remove(child)
     
     return item
 
@@ -75,6 +82,7 @@ for shopitem in root.findall("SHOPITEM"):
 # --- Uložení vyčištěného feedu ---
 tree.write(output_file, encoding="utf-8", xml_declaration=True)
 print(f"Vyčištěný feed uložen do: {output_file}")
+
 
 
 
