@@ -49,7 +49,7 @@ def clean_shopitem(item):
 
     # --- Odstranit konkrétně INCLUDING_VAT a REQUIRED_VALUE ---
     for elem in item.iter():
-        for unwanted_tag in ["INCLUDING_VAT", "REQUIRED_VALUE"]:
+        for unwanted_tag in ["INCLUDING_VAT", "REQUIRED_VALUE", "LOCATION", "MINIMAL_AMOUNT", "MAXIMAL_AMOUNT"]:
             for child in list(elem):
                 if child.tag == unwanted_tag:
                     elem.remove(child)
@@ -71,6 +71,11 @@ for item in root.findall("SHOPITEM"):
     b2b_elem.text = str(round(price_vat_b2b))
     item.append(b2b_elem)
 
+    # místo item.append(b2b_elem) použij:
+    price_vat_elem = item.find("PRICE_VAT")
+    idx = list(item).index(price_vat_elem)
+    item.insert(idx + 1, b2b_elem)   # vloží hned za PRICE_VAT
+
     # odstraníme PRICE_PURCHASE z XML
     if price_purchase_elem is not None:
         item.remove(price_purchase_elem)
@@ -82,6 +87,7 @@ for shopitem in root.findall("SHOPITEM"):
 # --- Uložení vyčištěného feedu ---
 tree.write(output_file, encoding="utf-8", xml_declaration=True)
 print(f"Vyčištěný feed uložen do: {output_file}")
+
 
 
 
