@@ -37,7 +37,7 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git add gpcz_ntb.xml
+          git add *.xml
           git commit -m "Automatická aktualizace feedu" || echo "No changes to commit"
           git pull --rebase --autostash origin main
           git push origin main
