@@ -24,8 +24,14 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run XML script
-        run: python ./skript-xml-to-gh.py
+      - name: Run XML script NTB
+        run: python ./skript-xml-ntb.py
+
+      - name: Run XML script PC
+        run: python ./skript-xml-pc.py
+
+      - name: Run XML script PC
+        run: python ./skript-xml-lcd.py
 
       - name: Commit and push changes
         run: |
