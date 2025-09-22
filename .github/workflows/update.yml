@@ -30,7 +30,7 @@ jobs:
       - name: Run XML script PC
         run: python ./skript-xml-pc.py
 
-      - name: Run XML script PC
+      - name: Run XML script LCD
         run: python ./skript-xml-lcd.py
 
       - name: Commit and push changes
