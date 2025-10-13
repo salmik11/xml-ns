@@ -171,7 +171,29 @@
             
     
 <PRICE_VAT_B2B>3188</PRICE_VAT_B2B><STOCK>
-                        <AMOUNT>2</AMOUNT>
+                        <AMOUNT>5</AMOUNT>
+                            </STOCK>
+
+
+
+
+
+    
+    </SHOPITEM>
+
+
+<SHOPITEM id="20785"><NAME>Fujitsu Celsius W530</NAME><SHORT_DESCRIPTION>&lt;p&gt;&lt;strong&gt;Intel Xeon E3-1246 v3 (4 jádra, až 3,90&lt;/strong&gt;&lt;strong&gt;GHz), 32GB DDR3 RAM&lt;/strong&gt;, &lt;strong&gt;256GB SSD, nVidia Quadro K2200 4GB GDDR5 (DVI, 2x DisplayPort),&lt;/strong&gt;&amp;nbsp;Windows 11 Pro&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;</SHORT_DESCRIPTION><DESCRIPTION>&lt;p&gt;&lt;img src='https://cdn.myshoptet.com/usr/www.goldpc.cz/user/documents/upload/aaa-stav-A.png' alt="aaa-stav-A" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Poznámka:&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;Počítač může nést menší povrchové nedostatky bez vlivu na funkčnost.&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 12pt; color: #c1aa04;"&gt;&lt;strong&gt;Profesionální řada&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;Pokud hledáte opravdu spolehlivé, kvalitní a výkonné zařízení, volte profesionální řadu! &lt;strong&gt;Odolná&lt;/strong&gt; a přesto lehká konstrukce díky &lt;strong&gt;hořčíkovým (magnesiovým) slitinám, titanovým pantům a tvrzenému polymeru.&lt;/strong&gt; Tyto řady jsou symbolem &lt;strong&gt;výkonu, kvality zpracování a dlouhodobé spolehlivosti.&lt;/strong&gt;&amp;nbsp;Jste ajťák, stavař, architekt, grafik, strojař, nebo editujete video? Dopřejte si k práci kvalitní zařízení, taková &lt;strong&gt;investice se Vám jistě vrátí.&lt;/strong&gt; Dnes více než kdy dříve si můžete dovolit repasované nebo krátkodobě používané zboží &lt;strong&gt;za zlomek původní ceny&lt;/strong&gt;, můžete tak získat mnohem &lt;strong&gt;více výkonu a spolehlivosti&lt;/strong&gt; než s novým "plasťákem".&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #c1aa04; font-size: 12pt;"&gt;&lt;strong&gt;SSD disk&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt; SSD disky jsou nástupcem plotnových pevných disků&amp;nbsp;a na rozdíl od nich&lt;strong&gt; neobsahují pohyblivé mechanické části.&lt;/strong&gt; Proto je jejich výhodou &lt;strong&gt;odolnost vůči otřesům&lt;/strong&gt;, tichý provoz, nižší spotřeba a hlavně &lt;strong&gt;výrazně vyšší přenosová rychlost.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 12pt; color: #c1aa04;"&gt;&lt;strong&gt;PŘED PRODEJEM...&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;Nechceme nic zanedbat, každé zařízení ihned po přijetí zkontrolujeme a vyčistíme. Po vyčištění přeinstalujeme operační systém a nahrajeme nejaktuálnější ovladače. Následně otestujeme veškeré komponenty, funkčnost výbavy a podrobíme zátěžovým testům.&lt;br /&gt;Projde-li zařízení bez obtíží, je nabídnuto k prodeji s patřičnou zárukou a připravené k okamžitému užívání.&lt;/p&gt;</DESCRIPTION><MANUFACTURER>Fujitsu</MANUFACTURER><WARRANTY>24 měsíců</WARRANTY><CATEGORIES><DEFAULT_CATEGORY id="861">STOLNÍ PC</DEFAULT_CATEGORY></CATEGORIES><IMAGES><IMAGE description="fujitsu celsius w530 1588843992">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/20785-1_fujitsu-celsius-w530-1588843992.jpg?67264874</IMAGE><IMAGE description="0cf0be5e72206d6f87c25206fbb9e380bc358a38">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/20785_0cf0be5e72206d6f87c25206fbb9e380bc358a38.jpg?67264874</IMAGE></IMAGES><INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>Stav zboží</NAME><VALUE>Repasované</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Procesor</NAME><VALUE>Intel Xeon</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Velikost operační paměti</NAME><VALUE>32GB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Typ disku</NAME><VALUE>SSD</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Operační systém</NAME><VALUE>Windows 11 Pro</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS><SURCHARGE_PARAMETERS><SURCHARGE_PARAMETER><NAME>Napájecí kabel 230V</NAME><DESCRIPTION /><SHORT_NAME /><CURRENCY>CZK</CURRENCY><VALUES><VALUE><NAME>Nový kabel</NAME><PRICE>38</PRICE></VALUE><VALUE><NAME>Použitý kabel</NAME><PRICE>34</PRICE></VALUE></VALUES></SURCHARGE_PARAMETER><SURCHARGE_PARAMETER><NAME>Optická CD/DVD mechanika</NAME><DESCRIPTION>Možnost dodatečné montáže optické mechaniky za příplatek.</DESCRIPTION><SHORT_NAME>Optická CD/DVD mechanika</SHORT_NAME><CURRENCY>CZK</CURRENCY><VALUES><VALUE><NAME>Osadit mechaniku</NAME><PRICE>399</PRICE></VALUE><VALUE><NAME>Osadit CD/DVD/BluRay mechaniku</NAME><PRICE>590</PRICE></VALUE></VALUES></SURCHARGE_PARAMETER><SURCHARGE_PARAMETER><NAME>Přidání pevného disku</NAME><DESCRIPTION /><SHORT_NAME>Přidání pevného disku</SHORT_NAME><CURRENCY>CZK</CURRENCY><VALUES><VALUE><NAME>500GB HDD</NAME><PRICE>590</PRICE></VALUE><VALUE><NAME>1000GB HDD</NAME><PRICE>1290</PRICE></VALUE><VALUE><NAME>4000GB HDD</NAME><PRICE>1890</PRICE></VALUE></VALUES></SURCHARGE_PARAMETER><SURCHARGE_PARAMETER><NAME>WiFi připojení</NAME><DESCRIPTION /><SHORT_NAME>WiFi připojení</SHORT_NAME><CURRENCY>CZK</CURRENCY><VALUES><VALUE><NAME>USB WiFi 150Mbps</NAME><PRICE>290</PRICE></VALUE><VALUE><NAME>USB WiFi 300Mbps (anténa)</NAME><PRICE>390</PRICE></VALUE><VALUE><NAME>PCI-E WiFi 300Mbps (2x anténa)</NAME><PRICE>490</PRICE></VALUE></VALUES></SURCHARGE_PARAMETER></SURCHARGE_PARAMETERS><CODE>2539</CODE>
+
+
+<PRICE_VAT>4490</PRICE_VAT>
+            
+    
+<PRICE_VAT_B2B>3754</PRICE_VAT_B2B><STOCK>
+                        <AMOUNT>5</AMOUNT>
                             </STOCK>
 
 
