@@ -34,7 +34,7 @@ def clean_shopitem(item):
     keep_tags = [
         "NAME", "SHORT_DESCRIPTION", "DESCRIPTION", "MANUFACTURER", "WARRANTY",
         "CATEGORIES", "IMAGES", "INFORMATION_PARAMETERS", "SURCHARGE_PARAMETERS",
-        "CODE", "PRICE_VAT", "STOCK", "PRICE_VAT_B2B"
+        "CODE", "PRICE_VAT", "STOCK", "PRICE_VAT_B2B", "VAT"
     ]
     for child in list(item):
         if child.tag not in keep_tags:
