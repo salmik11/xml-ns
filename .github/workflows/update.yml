@@ -2,7 +2,7 @@ name: Update XML feed
 
 on:
   schedule:
-    - cron: "0 * * * *"   # každou hodinu
+    - cron: "0 */6 * * *"   # každou hodinu
   workflow_dispatch:       # možnost spustit ručně
 
 permissions:
