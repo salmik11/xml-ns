@@ -11,7 +11,7 @@ headers = {
                   "(KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "cs-CZ,cs;q=0.9,en;q=0.8",
-    "Connection": "keep-alive""
+    "Connection": "keep-alive"
 }
 
 # --- Stáhnout feed s retry ---
@@ -90,6 +90,7 @@ for shopitem in root.findall("SHOPITEM"):
 # --- Uložení vyčištěného feedu ---
 tree.write(output_file, encoding="utf-8", xml_declaration=True)
 print(f"Vyčištěný feed uložen do: {output_file}")
+
 
 
 
