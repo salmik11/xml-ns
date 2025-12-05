@@ -1,38 +1,49 @@
 <?xml version='1.0' encoding='utf-8'?>
 <SHOP>
 
+<SHOPITEM id="22707"><NAME>Dell Ultra 34" P3421W</NAME><SHORT_DESCRIPTION>&lt;p&gt;&lt;strong&gt;34" LED IPS Wide&lt;/strong&gt; (3440x1440px), 16:9, Odezva: 8ms, 60Hz,&lt;strong&gt;&amp;nbsp;DisplayPort, HDMI, nastavitelná výška&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;</SHORT_DESCRIPTION><MANUFACTURER>Dell</MANUFACTURER><WARRANTY>24 měsíců</WARRANTY><CATEGORIES><DEFAULT_CATEGORY id="864">MONITORY</DEFAULT_CATEGORY></CATEGORIES><IMAGES><IMAGE description="download (17)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/22707-2_download--17.jpg?6931fb49</IMAGE><IMAGE description="download (15)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/22707_download--15.jpg?6931fb45</IMAGE><IMAGE description="download (20)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/22707-5_download--20.jpg?6931fb4d</IMAGE><IMAGE description="download (18)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/22707-3_download--18.jpg?6931fb4a</IMAGE><IMAGE description="download (19)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/22707-4_download--19.jpg?6931fb4b</IMAGE></IMAGES><INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>Stav zboží</NAME><VALUE>Rozbalené</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Úhlopříčka displeje</NAME><VALUE>34"</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Rozlišení displeje</NAME><VALUE>IPS 3440x1440</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Balení</NAME><VALUE>monitor, 230V napájecí kabel</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <CODE>10942</CODE>
+
+
+<VAT>21</VAT>
+                    <PRICE_VAT>7990</PRICE_VAT>
+            
+    
+<PRICE_VAT_B2B>7324</PRICE_VAT_B2B><STOCK>
+                        <AMOUNT>4</AMOUNT>
+                            </STOCK>
+
+
+    </SHOPITEM>
+
+
+<SHOPITEM id="22710"><NAME>Dell UltraSharp U2412Mc 24" FHD IPS</NAME><SHORT_DESCRIPTION>&lt;p&gt;&lt;strong&gt;24" LED IPS FullHD&lt;/strong&gt; (1920x1080px), 16:9, Odezva: 8ms, &lt;strong&gt;VGA, DVI, DisplayPort&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;</SHORT_DESCRIPTION><DESCRIPTION>&lt;p&gt;&lt;img src='https://cdn.myshoptet.com/usr/www.goldpc.cz/user/documents/upload/aaa-stav-A.png' alt="aaa-stav-A" /&gt;&lt;/p&gt;</DESCRIPTION><MANUFACTURER>Dell</MANUFACTURER><WARRANTY>24 měsíců</WARRANTY><CATEGORIES><DEFAULT_CATEGORY id="864">MONITORY</DEFAULT_CATEGORY></CATEGORIES><IMAGES><IMAGE description="download (21)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/22710_download--21.jpg?6931fd8b</IMAGE><IMAGE description="download (22)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/22710-1_download--22.jpg?6931fd8c</IMAGE><IMAGE description="download (23)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/22710-2_download--23.jpg?6931fd8f</IMAGE><IMAGE description="download (24)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/22710-3_download--24.jpg?6931fd91</IMAGE></IMAGES><INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>Stav zboží</NAME><VALUE>Repasované</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Úhlopříčka displeje</NAME><VALUE>24"</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Rozlišení displeje</NAME><VALUE>FullHD IPS 1920x1080</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Balení</NAME><VALUE>monitor, 230V napájecí kabel</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <CODE>10943</CODE>
+
+
+<VAT>21</VAT>
+                    <PRICE_VAT>2050</PRICE_VAT>
+            
+    
+<PRICE_VAT_B2B>1710</PRICE_VAT_B2B><STOCK>
+                        <AMOUNT>10</AMOUNT>
+                            </STOCK>
+
+
+    </SHOPITEM>
+
+
 <SHOPITEM id="20302"><NAME>Eizo FlexScan EV2316W</NAME><SHORT_DESCRIPTION>&lt;p&gt;&lt;span&gt;23 palců, &lt;strong&gt;FullHD IPS 1920x1080px&lt;/strong&gt;, DisplayPort, DVI, VGA. &lt;span style="background-color: #ffff00;"&gt;&lt;strong&gt;Nový kus včetně originálního balení.&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;</SHORT_DESCRIPTION><DESCRIPTION>&lt;p&gt;&lt;img src='https://cdn.myshoptet.com/usr/www.goldpc.cz/user/documents/upload/stavyproduktu_goldpc-01.png' alt="stavyproduktu_goldpc-01" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/h3&gt;</DESCRIPTION><MANUFACTURER>EIZO</MANUFACTURER><WARRANTY>24 měsíců</WARRANTY><CATEGORIES><DEFAULT_CATEGORY id="864">MONITORY</DEFAULT_CATEGORY></CATEGORIES><IMAGES><IMAGE description="7477 eizo flexscan ev2316w">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/20302_7477-eizo-flexscan-ev2316w.png?66731d6e</IMAGE><IMAGE description="EV2316W 03">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/20302_ev2316w-03.jpg?66731d54</IMAGE></IMAGES><INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>Stav zboží</NAME><VALUE>Repasované</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Úhlopříčka displeje</NAME><VALUE>23"</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Rozlišení displeje</NAME><VALUE>FullHD 1920x1080</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Balení</NAME><VALUE>monitor, 230V napájecí kabel</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS><CODE>10140</CODE>
 
 
 <VAT>21</VAT>
-                    <PRICE_VAT>2490</PRICE_VAT>
+                    <PRICE_VAT>2390</PRICE_VAT>
             
     
-<PRICE_VAT_B2B>2035</PRICE_VAT_B2B><STOCK>
+<PRICE_VAT_B2B>1968</PRICE_VAT_B2B><STOCK>
                         <AMOUNT>1</AMOUNT>
-                            </STOCK>
-
-
-
-
-
-    
-    </SHOPITEM>
-
-
-<SHOPITEM id="20293"><NAME>Eizo FlexScan EV2333W</NAME><SHORT_DESCRIPTION>&lt;p&gt;&lt;span&gt;23 palců, &lt;strong&gt;FullHD IPS 1920x1080px&lt;/strong&gt;, DisplayPort, DVI, VGA&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;</SHORT_DESCRIPTION><DESCRIPTION>&lt;p&gt;&lt;img src='https://cdn.myshoptet.com/usr/www.goldpc.cz/user/documents/upload/aaa-stav-A.png' alt="aaa-stav-A" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/h3&gt;</DESCRIPTION><MANUFACTURER>EIZO</MANUFACTURER><WARRANTY>24 měsíců</WARRANTY><CATEGORIES><DEFAULT_CATEGORY id="864">MONITORY</DEFAULT_CATEGORY></CATEGORIES><IMAGES><IMAGE description="2333w">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/20293_2333w.jpg?6671daf4</IMAGE><IMAGE description="">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/20293-1_eizo-flexscan-ev2333w.jpg?6671daf9</IMAGE><IMAGE description="eizoev2333 large2">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/20293-2_eizoev2333-large2.jpg?6671db00</IMAGE><IMAGE description="pol pl Monitor 2333 LED EIZO FlexScan EV2333W 1920x1080 DisplayPort DVI VGA PIVOT glosniki 3 lata gwarancji 27108 2">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/20293-3_pol-pl-monitor-2333-led-eizo-flexscan-ev2333w-1920x1080-displayport-dvi-vga-pivot-glosniki-3-lata-gwarancji-27108-2.jpg?6671db07</IMAGE></IMAGES><INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>Stav zboží</NAME><VALUE>Repasované</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Úhlopříčka displeje</NAME><VALUE>23"</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Rozlišení displeje</NAME><VALUE>FullHD 1920x1080</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Balení</NAME><VALUE>monitor, 230V napájecí kabel</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS><CODE>2530</CODE>
-
-
-<VAT>21</VAT>
-                    <PRICE_VAT>1290</PRICE_VAT>
-            
-    
-<PRICE_VAT_B2B>1227</PRICE_VAT_B2B><STOCK>
-                        <AMOUNT>14</AMOUNT>
                             </STOCK>
 
 
@@ -49,10 +60,10 @@
 
 
 <VAT>21</VAT>
-                    <PRICE_VAT>1190</PRICE_VAT>
+                    <PRICE_VAT>999</PRICE_VAT>
             
     
-<PRICE_VAT_B2B>1160</PRICE_VAT_B2B><STOCK>
+<PRICE_VAT_B2B>1032</PRICE_VAT_B2B><STOCK>
                         <AMOUNT>2</AMOUNT>
                             </STOCK>
 
@@ -91,10 +102,10 @@
 
 
 <VAT>21</VAT>
-                    <PRICE_VAT>1890</PRICE_VAT>
+                    <PRICE_VAT>1850</PRICE_VAT>
             
     
-<PRICE_VAT_B2B>1631</PRICE_VAT_B2B><STOCK>
+<PRICE_VAT_B2B>1605</PRICE_VAT_B2B><STOCK>
                         <AMOUNT>4</AMOUNT>
                             </STOCK>
 
@@ -103,6 +114,38 @@
 
 
     
+    </SHOPITEM>
+
+
+<SHOPITEM id="22698"><NAME>HP 24" Series 5 524sh</NAME><SHORT_DESCRIPTION>&lt;p&gt;&lt;strong&gt;24" LED IPS FullHD&lt;/strong&gt; (1920x1080px), 16:9, Odezva: 5ms, 100Hz,&lt;strong&gt;&amp;nbsp;VGA, HDMI, nastavitelná výška&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;</SHORT_DESCRIPTION><MANUFACTURER>HP</MANUFACTURER><WARRANTY>24 měsíců</WARRANTY><CATEGORIES><DEFAULT_CATEGORY id="864">MONITORY</DEFAULT_CATEGORY></CATEGORIES><IMAGES><IMAGE description="download (4)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/22698-1_download--4.jpg?6931f211</IMAGE><IMAGE description="download (3)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/22698_download--3.jpg?6931f20f</IMAGE><IMAGE description="download (5)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/22698-2_download--5.jpg?6931f213</IMAGE><IMAGE description="download (6)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/22698-3_download--6.jpg?6931f214</IMAGE></IMAGES><INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>Stav zboží</NAME><VALUE>Rozbalené</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Úhlopříčka displeje</NAME><VALUE>24"</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Rozlišení displeje</NAME><VALUE>FullHD IPS 1920x1080</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Balení</NAME><VALUE>monitor, 230V napájecí kabel</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <CODE>10940</CODE>
+
+
+<VAT>21</VAT>
+                    <PRICE_VAT>2790</PRICE_VAT>
+            
+    
+<PRICE_VAT_B2B>2564</PRICE_VAT_B2B><STOCK>
+                        <AMOUNT>2</AMOUNT>
+                            </STOCK>
+
+
+    </SHOPITEM>
+
+
+<SHOPITEM id="22704"><NAME>HP 27" Series 5 527pq</NAME><SHORT_DESCRIPTION>&lt;p&gt;&lt;strong&gt;27" LED IPS QHD&lt;/strong&gt; (2560x1440px), 16:9, Odezva: 5ms, 100Hz,&lt;strong&gt;&amp;nbsp;DisplayPort, HDMI, nastavitelná výška&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;</SHORT_DESCRIPTION><MANUFACTURER>HP</MANUFACTURER><WARRANTY>24 měsíců</WARRANTY><CATEGORIES><DEFAULT_CATEGORY id="864">MONITORY</DEFAULT_CATEGORY></CATEGORIES><IMAGES><IMAGE description="download (10)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/22704_download--10.jpg?6931f3e2</IMAGE><IMAGE description="download (14)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/22704-4_download--14.jpg?6931f3eb</IMAGE><IMAGE description="download (11)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/22704-1_download--11.jpg?6931f3e4</IMAGE><IMAGE description="download (12)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/22704-2_download--12.jpg?6931f3e4</IMAGE><IMAGE description="download (13)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/22704-3_download--13.jpg?6931f3e4</IMAGE></IMAGES><INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>Stav zboží</NAME><VALUE>Rozbalené</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Úhlopříčka displeje</NAME><VALUE>27"</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Rozlišení displeje</NAME><VALUE>QHD IPS 2560x1440</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Balení</NAME><VALUE>monitor, 230V napájecí kabel</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <CODE>10941</CODE>
+
+
+<VAT>21</VAT>
+                    <PRICE_VAT>5390</PRICE_VAT>
+            
+    
+<PRICE_VAT_B2B>4943</PRICE_VAT_B2B><STOCK>
+                        <AMOUNT>10</AMOUNT>
+                            </STOCK>
+
+
     </SHOPITEM>
 
 
@@ -171,10 +214,10 @@
 
 
 <VAT>21</VAT>
-                    <PRICE_VAT>2990</PRICE_VAT>
+                    <PRICE_VAT>2790</PRICE_VAT>
             
     
-<PRICE_VAT_B2B>2428</PRICE_VAT_B2B><STOCK>
+<PRICE_VAT_B2B>2293</PRICE_VAT_B2B><STOCK>
                         <AMOUNT>14</AMOUNT>
                             </STOCK>
 

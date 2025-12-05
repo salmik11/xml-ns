@@ -439,7 +439,7 @@
             
     
 <PRICE_VAT_B2B>9607</PRICE_VAT_B2B><STOCK>
-                        <AMOUNT>4</AMOUNT>
+                        <AMOUNT>3</AMOUNT>
                             </STOCK>
 
 
@@ -1982,18 +1982,14 @@
 
 
 <VAT>21</VAT>
-                    <PRICE_VAT>10440</PRICE_VAT>
+                    <PRICE_VAT>9440</PRICE_VAT>
             
     
-<PRICE_VAT_B2B>8671</PRICE_VAT_B2B><STOCK>
+<PRICE_VAT_B2B>7997</PRICE_VAT_B2B><STOCK>
                         <AMOUNT>3</AMOUNT>
                             </STOCK>
 
 
-
-
-
-    
     </SHOPITEM>
 
 
@@ -2056,18 +2052,14 @@
 
 
 <VAT>21</VAT>
-                    <PRICE_VAT>14250</PRICE_VAT>
+                    <PRICE_VAT>14444</PRICE_VAT>
             
     
-<PRICE_VAT_B2B>12721</PRICE_VAT_B2B><STOCK>
+<PRICE_VAT_B2B>12852</PRICE_VAT_B2B><STOCK>
                         <AMOUNT>1</AMOUNT>
                             </STOCK>
 
 
-
-
-
-    
     </SHOPITEM>
 
 
