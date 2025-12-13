@@ -2102,7 +2102,7 @@
             
     
 <PRICE_VAT_B2B>3303</PRICE_VAT_B2B><STOCK>
-                        <AMOUNT>3</AMOUNT>
+                        <AMOUNT>2</AMOUNT>
                             </STOCK>
 
 
@@ -2288,14 +2288,10 @@
             
     
 <PRICE_VAT_B2B>8334</PRICE_VAT_B2B><STOCK>
-                        <AMOUNT>3</AMOUNT>
+                        <AMOUNT>2</AMOUNT>
                             </STOCK>
 
 
-
-
-
-    
     </SHOPITEM>
 
 
