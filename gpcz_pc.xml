@@ -8,10 +8,10 @@
 
 
 <VAT>0</VAT>
-                    <PRICE_VAT>11990</PRICE_VAT>
+                    <PRICE_VAT>10990</PRICE_VAT>
             
     
-    <PRICE_VAT_B2B>10632</PRICE_VAT_B2B><STOCK>
+    <PRICE_VAT_B2B>9959</PRICE_VAT_B2B><STOCK>
                         <AMOUNT>1</AMOUNT>
                             </STOCK>
 
@@ -28,10 +28,10 @@
 
 
 <VAT>0</VAT>
-                    <PRICE_VAT>18990</PRICE_VAT>
+                    <PRICE_VAT>17990</PRICE_VAT>
             
     
-    <PRICE_VAT_B2B>16819</PRICE_VAT_B2B><STOCK>
+    <PRICE_VAT_B2B>16146</PRICE_VAT_B2B><STOCK>
                         <AMOUNT>1</AMOUNT>
                             </STOCK>
 
