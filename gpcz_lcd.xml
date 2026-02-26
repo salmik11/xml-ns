@@ -10,7 +10,7 @@
             
     
     <PRICE_VAT_B2B>7324</PRICE_VAT_B2B><STOCK>
-                        <AMOUNT>3</AMOUNT>
+                        <AMOUNT>2</AMOUNT>
                             </STOCK>
 
 
@@ -120,10 +120,10 @@
 
 
 <VAT>21</VAT>
-                    <PRICE_VAT>5390</PRICE_VAT>
+                    <PRICE_VAT>5290</PRICE_VAT>
             
     
-    <PRICE_VAT_B2B>4943</PRICE_VAT_B2B><STOCK>
+    <PRICE_VAT_B2B>4876</PRICE_VAT_B2B><STOCK>
                         <AMOUNT>10</AMOUNT>
                             </STOCK>
 
@@ -188,6 +188,88 @@
 
 
     
+    </SHOPITEM>
+
+
+<SHOPITEM id="23174"><NAME>LG 32" 4K IPS monitor 32UD99-W</NAME><SHORT_DESCRIPTION>&lt;p&gt;&lt;strong&gt;32" LED IPS 4K&lt;/strong&gt; (3840x2160px), 16:9, 5ms, 60Hz,&lt;strong&gt;&amp;nbsp;DisplayPort, HDMI&lt;br /&gt;PIVOT stojan s možností nastavení výšky, naklopení a otočení až o 90°&lt;/strong&gt;&lt;/p&gt;</SHORT_DESCRIPTION><DESCRIPTION>&lt;p&gt;&lt;img src='https://cdn.myshoptet.com/usr/www.goldpc.cz/user/documents/upload/aaa-stav-A.png' alt="aaa-stav-A" /&gt;&lt;/p&gt;</DESCRIPTION><MANUFACTURER>LG</MANUFACTURER><WARRANTY>24 měsíců</WARRANTY><CATEGORIES><DEFAULT_CATEGORY id="864">MONITORY</DEFAULT_CATEGORY></CATEGORIES><IMAGES><IMAGE description="download (4)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/23174-3_download--4.jpg?699f67c2</IMAGE><IMAGE description="download">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/23174-4_download.jpg?699f67c4</IMAGE><IMAGE description="download (3)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/23174-2_download--3.jpg?699f67c0</IMAGE><IMAGE description="download (2)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/23174-1_download--2.jpg?699f67bf</IMAGE></IMAGES><INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>Stav zboží</NAME><VALUE>Repasované</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Úhlopříčka displeje</NAME><VALUE>32"</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Rozlišení displeje</NAME><VALUE>4K 3840×2160</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Balení</NAME><VALUE>monitor, napájecí zdroj</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <CODE>2606</CODE>
+
+
+<VAT>21</VAT>
+                    <PRICE_VAT>5250</PRICE_VAT>
+            
+    
+    <PRICE_VAT_B2B>4524</PRICE_VAT_B2B><STOCK>
+                        <AMOUNT>12</AMOUNT>
+                            </STOCK>
+
+
+    </SHOPITEM>
+
+
+<SHOPITEM id="23171"><NAME>LG 32" 4K monitor 32UD59-B</NAME><SHORT_DESCRIPTION>&lt;p&gt;&lt;strong&gt;32" LED VA 4K&lt;/strong&gt; (3840x2160px), 16:9, 4ms, 60Hz,&lt;strong&gt;&amp;nbsp;DisplayPort, HDMI&lt;br /&gt;PIVOT stojan s možností nastavení výšky, naklopení a otočení až o 90°&lt;/strong&gt;&lt;/p&gt;</SHORT_DESCRIPTION><DESCRIPTION>&lt;p&gt;&lt;img src='https://cdn.myshoptet.com/usr/www.goldpc.cz/user/documents/upload/aaa-stav-A.png' alt="aaa-stav-A" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;strong&gt;Poznámka:&lt;/strong&gt; K tomuto kusu je dodáván stříbrný stojan na místo černého.&lt;/span&gt;&lt;/p&gt;</DESCRIPTION><MANUFACTURER>LG</MANUFACTURER><WARRANTY>24 měsíců</WARRANTY><CATEGORIES><DEFAULT_CATEGORY id="864">MONITORY</DEFAULT_CATEGORY></CATEGORIES><IMAGES><IMAGE description="download (37)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/23171-3_download--37.jpg?699f66f0</IMAGE><IMAGE description="download (1)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/23171_download--1.jpg?699f66e4</IMAGE><IMAGE description="download">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/23171-4_download.jpg?699f66f3</IMAGE><IMAGE description="download (2)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/23171-1_download--2.jpg?699f66e8</IMAGE><IMAGE description="download (3)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/23171-2_download--3.jpg?699f66eb</IMAGE></IMAGES><INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>Stav zboží</NAME><VALUE>Repasované</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Úhlopříčka displeje</NAME><VALUE>32"</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Rozlišení displeje</NAME><VALUE>4K 3840×2160</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Balení</NAME><VALUE>monitor, napájecí zdroj</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <CODE>2605</CODE>
+
+
+<VAT>21</VAT>
+                    <PRICE_VAT>4444</PRICE_VAT>
+            
+    
+    <PRICE_VAT_B2B>3835</PRICE_VAT_B2B><STOCK>
+                        <AMOUNT>1</AMOUNT>
+                            </STOCK>
+
+
+    </SHOPITEM>
+
+
+<SHOPITEM id="23177"><NAME>LG 32" 4K monitor 32UP550-W</NAME><SHORT_DESCRIPTION>&lt;p&gt;&lt;strong&gt;32" LED VA 4K&lt;/strong&gt; (3840x2160px), 16:9, 5ms, 60Hz,&lt;strong&gt;&amp;nbsp;DisplayPort, HDMI&lt;br /&gt;PIVOT stojan s možností nastavení výšky, naklopení a otočení až o 90°&lt;/strong&gt;&lt;/p&gt;</SHORT_DESCRIPTION><DESCRIPTION>&lt;p&gt;&lt;img src='https://cdn.myshoptet.com/usr/www.goldpc.cz/user/documents/upload/aaa-stav-A.png' alt="aaa-stav-A" /&gt;&lt;/p&gt;</DESCRIPTION><MANUFACTURER>LG</MANUFACTURER><WARRANTY>24 měsíců</WARRANTY><CATEGORIES><DEFAULT_CATEGORY id="864">MONITORY</DEFAULT_CATEGORY></CATEGORIES><IMAGES><IMAGE description="download (5)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/23177-4_download--5.jpg?699f684f</IMAGE><IMAGE description="download">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/23177-5_download.jpg?699f684f</IMAGE><IMAGE description="download (1)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/23177_download--1.jpg?699f684f</IMAGE><IMAGE description="download (2)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/23177-1_download--2.jpg?699f684f</IMAGE><IMAGE description="download (3)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/23177-2_download--3.jpg?699f684f</IMAGE><IMAGE description="download (4)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/23177-3_download--4.jpg?699f684f</IMAGE></IMAGES><INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>Stav zboží</NAME><VALUE>Repasované</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Úhlopříčka displeje</NAME><VALUE>32"</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Rozlišení displeje</NAME><VALUE>4K 3840×2160</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Balení</NAME><VALUE>monitor, napájecí zdroj</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <CODE>2607</CODE>
+
+
+<VAT>21</VAT>
+                    <PRICE_VAT>4888</PRICE_VAT>
+            
+    
+    <PRICE_VAT_B2B>4233</PRICE_VAT_B2B><STOCK>
+                        <AMOUNT>17</AMOUNT>
+                            </STOCK>
+
+
+    </SHOPITEM>
+
+
+<SHOPITEM id="23180"><NAME>LG 32" 4K monitor 32UP550-W</NAME><SHORT_DESCRIPTION>&lt;p&gt;&lt;strong&gt;32" LED VA 4K&lt;/strong&gt; (3840x2160px), 16:9, 5ms, 60Hz,&lt;strong&gt;&amp;nbsp;DisplayPort, HDMI&lt;br /&gt;PIVOT stojan s možností nastavení výšky, naklopení a otočení až o 90°&lt;/strong&gt;&lt;/p&gt;</SHORT_DESCRIPTION><DESCRIPTION>&lt;p&gt;&lt;img src='https://cdn.myshoptet.com/usr/www.goldpc.cz/user/documents/upload/aaa-stav-B.png' alt="aaa-stav-B" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;strong&gt;Poznámka:&lt;/strong&gt; Různé kosmetické nedostatky na těle nebo i samotném panelu (škrábance, oděrky). Je-li pro Vás kosmetický stav zásadní, doporučujeme volit spíše dražší kategorii A, nebo s námi alespoň konzultovat stav nějakého konkrétního kusu před objednáním.&lt;/span&gt;&lt;/p&gt;</DESCRIPTION><MANUFACTURER>LG</MANUFACTURER><WARRANTY>24 měsíců</WARRANTY><CATEGORIES><DEFAULT_CATEGORY id="864">MONITORY</DEFAULT_CATEGORY></CATEGORIES><IMAGES><IMAGE description="download (5)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/23180_download--5.jpg?699f6869</IMAGE><IMAGE description="download">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/23180-1_download.jpg?699f6869</IMAGE><IMAGE description="download (1)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/23180-2_download--1.jpg?699f6869</IMAGE><IMAGE description="download (2)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/23180-3_download--2.jpg?699f6869</IMAGE><IMAGE description="download (3)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/23180-4_download--3.jpg?699f6869</IMAGE><IMAGE description="download (4)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/23180-5_download--4.jpg?699f6869</IMAGE></IMAGES><INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>Stav zboží</NAME><VALUE>Repasované</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Úhlopříčka displeje</NAME><VALUE>32"</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Rozlišení displeje</NAME><VALUE>4K 3840×2160</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Balení</NAME><VALUE>monitor, napájecí zdroj</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <CODE>2608</CODE>
+
+
+<VAT>21</VAT>
+                    <PRICE_VAT>3750</PRICE_VAT>
+            
+    
+    <PRICE_VAT_B2B>3288</PRICE_VAT_B2B><STOCK>
+                        <AMOUNT>4</AMOUNT>
+                            </STOCK>
+
+
+    </SHOPITEM>
+
+
+<SHOPITEM id="23168"><NAME>LG monitor 25BL56WY-B FHD+ IPS</NAME><SHORT_DESCRIPTION>&lt;p&gt;&lt;strong&gt;25" LED IPS FullHD+&lt;/strong&gt; (1920x1200px), 16:10, &lt;strong&gt;DVI, DisplayPort, HDMI&lt;br /&gt;PIVOT stojan s možností nastavení výšky, naklopení a otočení až o 90°&lt;/strong&gt;&lt;/p&gt;</SHORT_DESCRIPTION><DESCRIPTION>&lt;p&gt;&lt;img src='https://cdn.myshoptet.com/usr/www.goldpc.cz/user/documents/upload/aaa-stav-A.png' alt="aaa-stav-A" /&gt;&lt;/p&gt;</DESCRIPTION><MANUFACTURER>LG</MANUFACTURER><WARRANTY>24 měsíců</WARRANTY><CATEGORIES><DEFAULT_CATEGORY id="864">MONITORY</DEFAULT_CATEGORY></CATEGORIES><IMAGES><IMAGE description="download (6)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/23168-5_download--6.jpg?699f6183</IMAGE><IMAGE description="download (1)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/23168_download--1.jpg?699f6183</IMAGE><IMAGE description="download">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/23168-6_download.jpg?699f6184</IMAGE><IMAGE description="download (4)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/23168-3_download--4.jpg?699f6183</IMAGE><IMAGE description="download (2)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/23168-1_download--2.jpg?699f6183</IMAGE><IMAGE description="download (5)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/23168-4_download--5.jpg?699f6183</IMAGE></IMAGES><INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>Stav zboží</NAME><VALUE>Repasované</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Úhlopříčka displeje</NAME><VALUE>25"</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Rozlišení displeje</NAME><VALUE>FullHD+ IPS 1920x1200</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Balení</NAME><VALUE>monitor, 230V napájecí kabel</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <CODE>2604</CODE>
+
+
+<VAT>21</VAT>
+                    <PRICE_VAT>2290</PRICE_VAT>
+            
+    
+    <PRICE_VAT_B2B>1986</PRICE_VAT_B2B><STOCK>
+                        <AMOUNT>34</AMOUNT>
+                            </STOCK>
+
+
     </SHOPITEM>
 
 </SHOP>
