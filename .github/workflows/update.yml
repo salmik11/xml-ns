@@ -33,6 +33,9 @@ jobs:
       - name: Run XML script LCD
         run: python ./skript-xml-lcd.py
 
+      - name: Run XML script Apple
+        run: python ./skript-xml-apple.py
+
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions"
