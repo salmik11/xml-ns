@@ -71,7 +71,10 @@ for item in root.findall("SHOPITEM"):
     price_purchase = float(price_purchase_elem.text) if price_purchase_elem is not None else 0
 
     # vytvoříme PRICE_VAT_B2B
-    price_vat_b2b = ((price_vat + price_vat + price_purchase) / 3) * 1.01
+    if price_purchase > price_vat:
+        price_vat_b2b = price_vat
+    else:
+        price_vat_b2b = ((price_vat + price_vat + price_purchase) / 3) * 1.01
     b2b_elem = ET.Element("PRICE_VAT_B2B")
     b2b_elem.text = str(round(price_vat_b2b))
 
