@@ -40,7 +40,7 @@ jobs:
         run: python ./skript-xml-macbook.py
 
       - name: Run XML script MacPC
-        run: python ./skript-xml-macpc.py
+        run: python ./skript-xml-mac.py
 
       - name: Commit and push changes
         run: |
