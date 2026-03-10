@@ -71,9 +71,9 @@ for item in root.findall("SHOPITEM"):
 
     # vytvoříme PRICE_VAT_B2B
     if price_purchase > price_vat:
-    price_vat_b2b = price_vat
+        price_vat_b2b = price_vat
     else:
-    price_vat_b2b = ((price_vat + price_vat + price_purchase) / 3) * 1.01
+        price_vat_b2b = ((price_vat + price_vat + price_purchase) / 3) * 1.01
     b2b_elem = ET.Element("PRICE_VAT_B2B")
     b2b_elem.text = str(round(price_vat_b2b))
 
@@ -93,6 +93,7 @@ for shopitem in root.findall("SHOPITEM"):
 # --- Uložení vyčištěného feedu ---
 tree.write(output_file, encoding="utf-8", xml_declaration=True)
 print(f"Vyčištěný feed uložen do: {output_file}")
+
 
 
 
