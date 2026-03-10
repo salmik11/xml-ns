@@ -33,8 +33,14 @@ jobs:
       - name: Run XML script LCD
         run: python ./skript-xml-lcd.py
 
-      - name: Run XML script Apple
-        run: python ./skript-xml-apple.py
+      - name: Run XML script iPhone
+        run: python ./skript-xml-iphone.py
+
+      - name: Run XML script MacBook
+        run: python ./skript-xml-macbook.py
+
+      - name: Run XML script MacPC
+        run: python ./skript-xml-macpc.py
 
       - name: Commit and push changes
         run: |
