@@ -3,8 +3,8 @@ import xml.etree.ElementTree as ET
 import time
 
 # --- Konfigurace ---
-url = "https://www.goldpc.cz/export/productsComplete.xml?patternId=-5&partnerId=3&hash=b6980705f27e462dc4b2da6beeb8f8b5b7746b5d927f5eaf5692ddc19d8cf3d0&stockState=1&categoryId=792"
-output_file = "gpcz_ntb.xml"
+url = "https://www.goldpc.cz/export/productsComplete.xml?patternId=-5&partnerId=3&hash=b6980705f27e462dc4b2da6beeb8f8b5b7746b5d927f5eaf5692ddc19d8cf3d0&manufacturerId=75&stockState=1&categoryId=1074"
+output_file = "gpcz_macbook.xml"
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -90,6 +90,7 @@ for shopitem in root.findall("SHOPITEM"):
 # --- Uložení vyčištěného feedu ---
 tree.write(output_file, encoding="utf-8", xml_declaration=True)
 print(f"Vyčištěný feed uložen do: {output_file}")
+
 
 
 
