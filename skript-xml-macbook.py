@@ -50,6 +50,8 @@ def clean_shopitem(item):
         for cat in list(categories):
             if cat.tag != "DEFAULT_CATEGORY":
                 categories.remove(cat)
+            else:
+                cat.set("id", "1074")
 
     # --- Odstranit konkrétně INCLUDING_VAT a REQUIRED_VALUE ---
     for elem in item.iter():
@@ -93,6 +95,7 @@ for shopitem in root.findall("SHOPITEM"):
 # --- Uložení vyčištěného feedu ---
 tree.write(output_file, encoding="utf-8", xml_declaration=True)
 print(f"Vyčištěný feed uložen do: {output_file}")
+
 
 
 
