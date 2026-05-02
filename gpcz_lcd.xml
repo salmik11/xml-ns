@@ -1,22 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <SHOP>
 
-<SHOPITEM id="22707"><NAME>Dell Ultra 34" P3421W</NAME><SHORT_DESCRIPTION>&lt;p&gt;&lt;strong&gt;34" LED IPS Wide&lt;/strong&gt; (3440x1440px), 16:9, Odezva: 8ms, 60Hz,&lt;strong&gt;&amp;nbsp;DisplayPort, HDMI, nastavitelná výška&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;</SHORT_DESCRIPTION><MANUFACTURER>Dell</MANUFACTURER><WARRANTY>24 měsíců</WARRANTY><CATEGORIES><DEFAULT_CATEGORY id="864">MONITORY</DEFAULT_CATEGORY></CATEGORIES><IMAGES><IMAGE description="download (17)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/22707-2_download--17.jpg?6931fb49</IMAGE><IMAGE description="download (15)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/22707_download--15.jpg?6931fb45</IMAGE><IMAGE description="download (20)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/22707-5_download--20.jpg?6931fb4d</IMAGE><IMAGE description="download (18)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/22707-3_download--18.jpg?6931fb4a</IMAGE><IMAGE description="download (19)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/22707-4_download--19.jpg?6931fb4b</IMAGE></IMAGES><INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>Stav zboží</NAME><VALUE>Rozbalené</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Úhlopříčka displeje</NAME><VALUE>34"</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Rozlišení displeje</NAME><VALUE>IPS 3440x1440</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Balení</NAME><VALUE>monitor, 230V napájecí kabel</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
-    <CODE>10942</CODE>
-
-
-<VAT>21</VAT>
-                    <PRICE_VAT>7990</PRICE_VAT>
-            
-    
-    <PRICE_VAT_B2B>7324</PRICE_VAT_B2B><STOCK>
-                        <AMOUNT>1</AMOUNT>
-                            </STOCK>
-
-
-    </SHOPITEM>
-
-
 <SHOPITEM id="22710"><NAME>Dell UltraSharp U2412Mc 24" FHD IPS</NAME><SHORT_DESCRIPTION>&lt;p&gt;&lt;strong&gt;24" LED IPS FullHD&lt;/strong&gt; (1920x1080px), 16:9, Odezva: 8ms, &lt;strong&gt;VGA, DVI, DisplayPort&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;</SHORT_DESCRIPTION><DESCRIPTION>&lt;p&gt;&lt;img src='https://cdn.myshoptet.com/usr/www.goldpc.cz/user/documents/upload/aaa-stav-A.png' alt="aaa-stav-A" /&gt;&lt;/p&gt;</DESCRIPTION><MANUFACTURER>Dell</MANUFACTURER><WARRANTY>24 měsíců</WARRANTY><CATEGORIES><DEFAULT_CATEGORY id="864">MONITORY</DEFAULT_CATEGORY></CATEGORIES><IMAGES><IMAGE description="download (21)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/22710_download--21.jpg?6931fd8b</IMAGE><IMAGE description="download (22)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/22710-1_download--22.jpg?6931fd8c</IMAGE><IMAGE description="download (23)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/22710-2_download--23.jpg?6931fd8f</IMAGE><IMAGE description="download (24)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/22710-3_download--24.jpg?6931fd91</IMAGE></IMAGES><INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>Stav zboží</NAME><VALUE>Repasované</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Úhlopříčka displeje</NAME><VALUE>24"</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Rozlišení displeje</NAME><VALUE>FullHD IPS 1920x1080</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Balení</NAME><VALUE>monitor, 230V napájecí kabel</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
     <CODE>10943</CODE>
 
