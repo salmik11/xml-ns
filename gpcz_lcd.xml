@@ -44,18 +44,14 @@
 
 
 <VAT>21</VAT>
-                    <PRICE_VAT>1790</PRICE_VAT>
+                    <PRICE_VAT>1690</PRICE_VAT>
             
     
-    <PRICE_VAT_B2B>1564</PRICE_VAT_B2B><STOCK>
+    <PRICE_VAT_B2B>1497</PRICE_VAT_B2B><STOCK>
                         <AMOUNT>19</AMOUNT>
                             </STOCK>
 
 
-
-
-
-    
     </SHOPITEM>
 
 
@@ -90,10 +86,10 @@
 
 
 <VAT>0</VAT>
-                    <PRICE_VAT>2490</PRICE_VAT>
+                    <PRICE_VAT>2222</PRICE_VAT>
             
     
-    <PRICE_VAT_B2B>2214</PRICE_VAT_B2B><STOCK>
+    <PRICE_VAT_B2B>2033</PRICE_VAT_B2B><STOCK>
                         <AMOUNT>20</AMOUNT>
                             </STOCK>
 
@@ -106,10 +102,10 @@
 
 
 <VAT>21</VAT>
-                    <PRICE_VAT>2790</PRICE_VAT>
+                    <PRICE_VAT>2690</PRICE_VAT>
             
     
-    <PRICE_VAT_B2B>2564</PRICE_VAT_B2B><STOCK>
+    <PRICE_VAT_B2B>2497</PRICE_VAT_B2B><STOCK>
                         <AMOUNT>2</AMOUNT>
                             </STOCK>
 
@@ -138,18 +134,14 @@
 
 
 <VAT>21</VAT>
-                    <PRICE_VAT>3390</PRICE_VAT>
+                    <PRICE_VAT>3290</PRICE_VAT>
             
     
-    <PRICE_VAT_B2B>2964</PRICE_VAT_B2B><STOCK>
+    <PRICE_VAT_B2B>2897</PRICE_VAT_B2B><STOCK>
                         <AMOUNT>2</AMOUNT>
                             </STOCK>
 
 
-
-
-
-    
     </SHOPITEM>
 
 
