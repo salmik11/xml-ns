@@ -1,24 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <SHOP>
 
-<SHOPITEM id="23609"><NAME>Apple iMac 24" M1 / 16GB / 1000GB SSD / 4.5K / Stříbrná</NAME><SHORT_DESCRIPTION>&lt;p&gt;&lt;strong&gt;Apple M1 8-core, 16GB RAM, 1000GB SSD,&amp;nbsp;24" 4.5K Retina&lt;/strong&gt; displej (4480 × 2520 bodů), Wi-Fi ax, Bluetooth 5.0, GLAN, FaceTime HD kamera 1080p, operační systém &lt;strong&gt;MacOS Tahoe&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;br /&gt;&lt;span style="background-color: #ffff00;"&gt;Velice pěkný stav, kompletní originální balení včetně originální Apple klávesnice a myši.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</SHORT_DESCRIPTION><DESCRIPTION>&lt;p&gt;&lt;img src='https://cdn.myshoptet.com/usr/www.goldpc.cz/user/documents/upload/aaa-stav-A.png' alt="aaa-stav-A" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="font-size: 12pt;"&gt;&lt;strong&gt;All in one PC (vše v jednom)&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;Chcete designový pracovní prostor, nebo zkrátka &lt;strong&gt;máte v kanceláři málo místa?&lt;/strong&gt; Počítač All-in-one Vám spoustu prostoru ušetří, jde o &lt;strong&gt;kombinaci PC, monitoru i reproduktorů.&lt;/strong&gt; Vyhněte se té únavné spoustě kabelů, &lt;strong&gt;AIO stačí napájet, připojit klávesnici s myší a můžete naplno pracovat!&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="font-size: 12pt; color: #c1aa04; font-family: helvetica;"&gt;&lt;strong&gt;PŘED PRODEJEM...&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style="font-family: helvetica;"&gt;Nechceme nic zanedbat, každé zařízení ihned po přijetí zkontrolujeme a vyčistíme. Po vyčištění přeinstalujeme operační systém a nahrajeme nejaktuálnější ovladače. Následně otestujeme veškeré komponenty, funkčnost výbavy a podrobíme zátěžovým testům.&lt;/span&gt;&lt;br /&gt;&lt;span style="font-family: helvetica;"&gt;Projde-li zařízení bez obtíží, je nabídnuto k prodeji s patřičnou zárukou a připravené k okamžitému užívání.&lt;/span&gt;&lt;/p&gt;</DESCRIPTION><MANUFACTURER>Apple</MANUFACTURER><WARRANTY>24 měsíců</WARRANTY><CATEGORIES><DEFAULT_CATEGORY id="1028">VÝPRODEJ %</DEFAULT_CATEGORY></CATEGORIES><IMAGES><IMAGE description="colors silver ermmyfbo4kq6 large">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/23609_colors-silver-ermmyfbo4kq6-large.jpg?6a10472e</IMAGE></IMAGES><INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>Stav zboží</NAME><VALUE>Používané</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Procesor</NAME><VALUE>Apple M1</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Velikost operační paměti</NAME><VALUE>16GB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Kapacita disku</NAME><VALUE>1000GB</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Typ disku</NAME><VALUE>SSD NVMe</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Úhlopříčka displeje</NAME><VALUE>24" (60,9cm)</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Rozlišení displeje</NAME><VALUE>4.5K 4480×2520</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Operační systém</NAME><VALUE>macOS</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS><CODE>11202</CODE>
-
-
-<VAT>21</VAT>
-                    <PRICE_VAT>23990</PRICE_VAT>
-            
-    
-    <PRICE_VAT_B2B>22070</PRICE_VAT_B2B><STOCK>
-                        <AMOUNT>1</AMOUNT>
-                            </STOCK>
-
-
-    </SHOPITEM>
-
-
 <SHOPITEM id="23603"><NAME>Apple iMac 24" M1 / 8GB / 256GB SSD / 4.5K / Modrá</NAME><SHORT_DESCRIPTION>&lt;p&gt;&lt;strong&gt;Apple M1 8-core, 8GB RAM, 256GB SSD,&amp;nbsp;24" 4.5K Retina&lt;/strong&gt; displej (4480 × 2520 bodů), Wi-Fi ax, Bluetooth 5.0, GLAN, 4x USB-C (2x Thunderbolt / USB 4, 2x USB Type-C 3.1/3.2 Gen 2), FaceTime HD kamera 1080p, operační systém &lt;strong&gt;MacOS Tahoe&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;br /&gt;&lt;span style="background-color: #ffff00;"&gt;Velice pěkný stav, bez originálního balení, bez klávesnice a myši.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</SHORT_DESCRIPTION><DESCRIPTION>&lt;p&gt;&lt;img src='https://cdn.myshoptet.com/usr/www.goldpc.cz/user/documents/upload/aaa-stav-A.png' alt="aaa-stav-A" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="font-size: 12pt;"&gt;&lt;strong&gt;All in one PC (vše v jednom)&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;Chcete designový pracovní prostor, nebo zkrátka &lt;strong&gt;máte v kanceláři málo místa?&lt;/strong&gt; Počítač All-in-one Vám spoustu prostoru ušetří, jde o &lt;strong&gt;kombinaci PC, monitoru i reproduktorů.&lt;/strong&gt; Vyhněte se té únavné spoustě kabelů, &lt;strong&gt;AIO stačí napájet, připojit klávesnici s myší a můžete naplno pracovat!&lt;/strong&gt;&lt;/p&gt;
