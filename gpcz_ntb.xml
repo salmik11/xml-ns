@@ -3415,10 +3415,10 @@
 
 
 <VAT>21</VAT>
-                    <PRICE_VAT>11990</PRICE_VAT>
+                    <PRICE_VAT>10990</PRICE_VAT>
             
     
-    <PRICE_VAT_B2B>9507</PRICE_VAT_B2B><STOCK>
+    <PRICE_VAT_B2B>8834</PRICE_VAT_B2B><STOCK>
                         <AMOUNT>4</AMOUNT>
                             </STOCK>
 
@@ -3431,10 +3431,10 @@
 
 
 <VAT>21</VAT>
-                    <PRICE_VAT>10990</PRICE_VAT>
+                    <PRICE_VAT>9999</PRICE_VAT>
             
     
-    <PRICE_VAT_B2B>8834</PRICE_VAT_B2B><STOCK>
+    <PRICE_VAT_B2B>8167</PRICE_VAT_B2B><STOCK>
                         <AMOUNT>39</AMOUNT>
                             </STOCK>
 
