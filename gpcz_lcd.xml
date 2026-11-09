@@ -94,7 +94,7 @@
             
     
     <PRICE_VAT_B2B>4876</PRICE_VAT_B2B><STOCK>
-                        <AMOUNT>8</AMOUNT>
+                        <AMOUNT>2</AMOUNT>
                             </STOCK>
 
 
@@ -225,6 +225,22 @@
     
     <PRICE_VAT_B2B>2293</PRICE_VAT_B2B><STOCK>
                         <AMOUNT>3</AMOUNT>
+                            </STOCK>
+
+
+    </SHOPITEM>
+
+
+<SHOPITEM id="24813"><NAME>LG 27" 4K monitor 27UL500P</NAME><SHORT_DESCRIPTION>&lt;p&gt;&lt;strong&gt;27" LED IPS 4K&lt;/strong&gt; (3840x2160px), 16:9, 5ms, 60Hz,&lt;strong&gt;&amp;nbsp;DisplayPort, HDMI&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;</SHORT_DESCRIPTION><DESCRIPTION>&lt;p&gt;&lt;img src='https://cdn.myshoptet.com/usr/www.goldpc.cz/user/documents/upload/aaa-stav-A.png' alt="aaa-stav-A" /&gt;&lt;/p&gt;</DESCRIPTION><MANUFACTURER>LG</MANUFACTURER><WARRANTY>24 měsíců</WARRANTY><CATEGORIES><DEFAULT_CATEGORY id="864">MONITORY</DEFAULT_CATEGORY></CATEGORIES><IMAGES><IMAGE description="stažený soubor">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/24813-5_stazeny-soubor.jpg?6af1d777</IMAGE><IMAGE description="stažený soubor (2)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/24813-3_stazeny-soubor--2.jpg?6af1d777</IMAGE><IMAGE description="stažený soubor (1)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/24813-4_stazeny-soubor--1.jpg?6af1d777</IMAGE><IMAGE description="stažený soubor (5)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/24813_stazeny-soubor--5.jpg?6af1d776</IMAGE><IMAGE description="stažený soubor (4)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/24813-1_stazeny-soubor--4.jpg?6af1d777</IMAGE><IMAGE description="stažený soubor (3)">https://cdn.myshoptet.com/usr/www.goldpc.cz/user/shop/orig/24813-2_stazeny-soubor--3.jpg?6af1d777</IMAGE></IMAGES><INFORMATION_PARAMETERS><INFORMATION_PARAMETER><NAME>Stav zboží</NAME><VALUE>Zánovní</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Úhlopříčka displeje</NAME><VALUE>27"</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Rozlišení displeje</NAME><VALUE>4K 3840×2160</VALUE></INFORMATION_PARAMETER><INFORMATION_PARAMETER><NAME>Balení</NAME><VALUE>monitor, napájecí zdroj</VALUE></INFORMATION_PARAMETER></INFORMATION_PARAMETERS>
+    <CODE>11606</CODE>
+
+
+<VAT>21</VAT>
+                    <PRICE_VAT>4990</PRICE_VAT>
+            
+    
+    <PRICE_VAT_B2B>4674</PRICE_VAT_B2B><STOCK>
+                        <AMOUNT>1</AMOUNT>
                             </STOCK>
 
 
